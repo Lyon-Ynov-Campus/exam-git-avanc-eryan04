@@ -13,4 +13,6 @@ go mod tidy
 go run main.go
 ```
 
+Git revert va creer un nouveau commit dans lequel il annule les changement precedent. A l'inverse de git reset qui va effacer le commit et faire reculer le pointeur HEAD
+
 Le serveur sera accessible sur http://localhost:8080
